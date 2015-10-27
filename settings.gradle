@@ -1,2 +1,3 @@
 rootProject.name = 'bombfactory'
 
+include 'Server', 'Client'
